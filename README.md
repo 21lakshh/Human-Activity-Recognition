@@ -59,7 +59,7 @@ The dataset authors provided a feature-engineered version of the dataset contain
 ## 5. Conclusion
 1. **Raw inertial data** performed well with LSTM, showing the effectiveness of deep learning in capturing sequential dependencies.
 2. **TSFEL-extracted features** enhanced the performance of traditional machine learning models, with SVC achieving a high accuracy of 95.31%.
-3. **Features provided by dataset authors** yielded the best results, with Logistic Regression achieving 95.86% accuracy, indicating the robustness of handcrafted features.
+3. Raw inertial data performed well with **LSTM**, showing an accuracy of 93.04 on test data
 
 This study highlights the significance of feature engineering in HAR and the effectiveness of different modeling approaches in improving classification accuracy.
 
